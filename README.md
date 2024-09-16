@@ -1,5 +1,5 @@
 
-# Task Javascript 1
+# Task Javascript 3
 
 Project ini ditujukan untuk talent FazzTrack untuk lebih memahami cara implementasi dasar dari javascript, ada 4 file dalam project kali ini, yaitu : task1.js, task2.js, task3a.js, task3b.js, dan task4.js
 
